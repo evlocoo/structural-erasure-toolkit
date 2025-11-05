@@ -1,0 +1,44 @@
+{
+  "entity": "Demo Subject",
+  "corpus_total_items": 900,
+  "mentions_total": 72,
+  "misattributed_mentions": 20,
+  "distinct_recognized_contributions": 2,
+  "verified_contributions": 4,
+  "reclassification_events": 2,
+  "time_intervals": 10,
+  "presence_timeline": [
+    {
+      "t": "1950s",
+      "mentions": 2
+    },
+    {
+      "t": "1960s",
+      "mentions": 4
+    },
+    {
+      "t": "1970s",
+      "mentions": 6
+    },
+    {
+      "t": "1980s",
+      "mentions": 8
+    },
+    {
+      "t": "1990s",
+      "mentions": 10
+    },
+    {
+      "t": "2000s",
+      "mentions": 12
+    },
+    {
+      "t": "2010s",
+      "mentions": 14
+    },
+    {
+      "t": "2020s",
+      "mentions": 16
+    }
+  ]
+}
